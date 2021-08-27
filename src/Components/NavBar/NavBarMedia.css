@@ -1,0 +1,162 @@
+@media only screen and (max-width:500px){
+    nav{
+        background-color: #fff;
+    }
+    .icon{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ReponsivMain{
+        display: flex;
+        justify-content: flex-end;
+    }
+    nav>ul{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        font-size: 25px !important;
+    }
+    .fa-times{
+        display: none;
+        font-size: 25px !important; 
+    }
+    .ResponsiveBar{
+        display: block;
+        width: 450px;
+    }
+    .ResponsiveBar ul{
+        list-style: none;
+        text-align: center;
+        font-size: 17px;
+    }
+    .ResponsiveBar ul a{
+        color: #000;
+    }
+    .span{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:600px){
+    nav{
+        background-color: #fff;
+    }
+    .icon{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ReponsivMain{
+        display: flex;
+        justify-content: flex-end;
+    }
+    nav>ul{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        font-size: 25px !important;
+    }
+    .fa-times{
+        display: none;
+        font-size: 25px !important; 
+    }
+    .ResponsiveBar{
+        display: block;
+        width: 550px;
+    }
+    .ResponsiveBar ul{
+        list-style: none;
+        text-align: center;
+        font-size: 19px;
+    }
+    .ResponsiveBar ul a{
+        color: #000;
+    }
+    .span{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width:700px){
+    nav{
+        background-color: #fff;
+    }
+    .icon{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ReponsivMain{
+        display: flex;
+        justify-content: flex-end;
+    }
+    nav>ul{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        font-size: 25px !important;
+    }
+    .fa-times{
+        display: none;
+        font-size: 25px !important; 
+    }
+    .ResponsiveBar{
+        display: block;
+        width: 650px;
+    }
+    .ResponsiveBar ul{
+        list-style: none;
+        text-align: center;
+        font-size: 19px;
+    }
+    .ResponsiveBar ul a{
+        color: #000;
+    }
+    .span{
+        display: none;
+    }
+}
+
+
+
+@media only screen and (max-width:760px){
+    nav{
+        background-color: #fff;
+    }
+    .icon{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ReponsivMain{
+        display: flex;
+        justify-content: flex-end;
+    }
+    nav>ul{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+        font-size: 25px !important;
+    }
+    .fa-times{
+        display: none;
+        font-size: 25px !important; 
+    }
+    .ResponsiveBar{
+        display: block;
+        width: 700px;
+    }
+    .ResponsiveBar ul{
+        list-style: none;
+        text-align: center;
+        font-size: 19px;
+    }
+    .ResponsiveBar ul a{
+        color: #000;
+    }
+    .span{
+        display: none;
+    }
+}

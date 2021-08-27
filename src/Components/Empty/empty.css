@@ -1,0 +1,10 @@
+.basketmain{
+    width: 500px;
+    padding: 30px;
+    margin: 0 auto;
+    box-shadow: 4px 4px 8px 8px gray;
+}
+.contanerbasket{
+    padding: 50px;
+    width: 100%;
+}

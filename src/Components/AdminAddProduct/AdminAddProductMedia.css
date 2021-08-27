@@ -1,0 +1,53 @@
+@media only screen and (max-width:500px){
+    .AdminCardChild{
+        width: 400px;
+        padding: 5px 5px;
+    }
+    .CloseAdminCard{
+        margin-left: 360px;
+        width: 35px;
+        height: 35px;
+        text-align: center;
+        color: #000;
+        cursor: pointer;
+        font-size: 20px;
+        background-color: transparent;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .AdminCardChild{
+        width: 400px;
+        padding: 5px 5px;
+    }
+    .CloseAdminCard{
+        margin-left: 360px;
+        width: 35px;
+        height: 35px;
+        text-align: center;
+        color: #000;
+        cursor: pointer;
+        font-size: 20px;
+        background-color: transparent;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (max-width:1000px){
+    .AdminCardChild{
+        width: 540px;
+        padding: 5px 5px;
+    }
+    .CloseAdminCard{
+        margin-left: 390px;
+        width: 35px;
+        height: 35px;
+        text-align: center;
+        color: #000;
+        cursor: pointer;
+        font-size: 20px;
+        background-color: transparent;
+        justify-content: flex-end;
+    }
+}

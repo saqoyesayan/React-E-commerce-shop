@@ -1,0 +1,89 @@
+.Minus{
+    width: 40px;
+    padding:5px;
+}
+.Plus{
+    width: 40px;
+    padding: 5px;
+}
+.Card{
+    box-shadow: 4px 4px 8px 8px  gray;
+    border: none;
+}
+.fa-edit{
+    font-size: 25px !important;
+    cursor: pointer;
+}
+.DeletAndEdit{
+    display: flex;
+}
+.DeletAndEdit span{
+    padding: 10px;
+}
+.DeletX{
+   margin-left: 335px;
+   font-size: 17px !important;
+   cursor: pointer;
+}
+.DeletX:hover{
+    color: #fff;
+    background: red;
+}
+
+.fa-shopping-cart{
+    display: none;
+}
+.MEdiaaddbtn{
+    display: none;
+}
+.btnMediaAdd2{
+    display: none;
+}
+.btnDeletMediaX{
+    display: none;
+}
+.LernMoreMedia2{
+    display: none;
+}
+.LernMoreMedia{
+    display: block;
+}
+.EditMain{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 7;
+}
+.EditChilde{
+    width: 40%;
+    padding: 20px;
+    background-color: rgba(256,256,256,1);
+    margin: 0 auto;
+    position: relative;
+}
+.EditChilde>input{
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px 0;
+}
+.EditChilde>textarea{
+    width: 100%;
+}
+.CloseEdit{
+    width: 25px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    margin-left: 560px;
+}
+.CloseEdit:hover{
+    background-color: red;
+}

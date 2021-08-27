@@ -1,0 +1,12 @@
+header{
+    background-image: url("https://wallpapercave.com/wp/wp6557305.jpg");
+    background-size: 100% 100%;
+}
+.HeaderPage{
+    padding: 200px 0;
+}
+
+.HeaderPage h1{
+    color: white;
+    text-align: center;
+}

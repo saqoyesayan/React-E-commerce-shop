@@ -1,0 +1,10 @@
+@media only screen and (max-width:500px){
+    #SecOne h1{
+        font-size: 35px;
+    }
+}
+@media only screen and (max-width:600px){
+    #SecOne h1{
+        font-size: 40px;
+    }
+}

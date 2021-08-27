@@ -1,0 +1,170 @@
+@media only screen and (max-width:500px){
+    .Card{
+        width: 80% !important;
+    }
+    .fa-shopping-cart{
+        display: block;
+        font-size: 35px !important;
+    }
+    .MEdiaaddbtn{
+        display: inline-block;
+        margin-top: 13px;
+        background-color: transparent;
+        outline: none !important;
+        border: 1px solid white;
+    }
+    .MEdiaaddbtn:hover{
+        color: green;
+    }
+    .btnAddBasket{
+        display: none;
+    }
+    .btn-primary{
+        display: none;
+    }
+    .btn-outline-primary{
+        display: none;
+    }
+    .btnMediaAdd2{
+        display: inline-block;
+        font-size: 28px !important;
+        margin-left: 10px;
+        border: 1px solid white;
+    }
+    .btnDeletMedia{
+        display: none;
+    }
+    .btnDeletMediaX{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia2{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width:600px){
+    .Card{
+        width: 60% !important;
+    }
+    .fa-shopping-cart{
+        display: block;
+        font-size: 35px !important;
+    }
+    .MEdiaaddbtn{
+        display: inline-block;
+        margin-top: 13px;
+        background-color: transparent;
+        outline: none !important;
+        border: 1px solid white;
+    }
+    .MEdiaaddbtn:hover{
+        color: green;
+    }
+    .btnAddBasket{
+        display: none;
+    }
+    .btn-primary{
+        display: none;
+    }
+    .btn-outline-primary{
+        display: none;
+    }
+    .btnMediaAdd2{
+        display: inline-block;
+        font-size: 28px !important;
+        margin-left: 10px;
+        border: 1px solid white;
+    }
+    .btnDeletMedia{
+        display: none;
+    }
+    .btnDeletMediaX{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia2{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia{
+        display: none;
+    }
+    .CloseAdminCard{
+        margin-left: 480px !important;
+    }
+}
+
+
+
+@media only screen and (max-width:1000px){
+    .Card{
+        width: 47% !important;
+        box-shadow: none;
+        border: 1px solid;
+        padding: 10px 0;
+    }
+    .fa-shopping-cart{
+        display: block;
+        font-size: 35px !important;
+    }
+    .MEdiaaddbtn{
+        display: inline-block;
+        margin-top: 13px;
+        background-color: transparent;
+        outline: none !important;
+        border: 1px solid white;
+    }
+    .MEdiaaddbtn:hover{
+        color: green;
+    }
+    .btnAddBasket{
+        display: none;
+    }
+    .btn-primary{
+        display: none;
+    }
+    .btn-outline-primary{
+        display: none;
+    }
+    .btnMediaAdd2{
+        display: inline-block;
+        font-size: 28px !important;
+        margin-left: 10px;
+        border: 1px solid white;
+    }
+    .btnDeletMedia{
+        display: none;
+    }
+    .btnDeletMediaX{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia2{
+        display: inline-block;
+        font-size: 20px !important;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .LernMoreMedia{
+        display: none;
+    }
+    .CloseAdminCard{
+        margin-left: 480px !important;
+    }
+}

@@ -1,0 +1,26 @@
+@media only screen and (max-width:500px) {
+    .HeaderPage h1{
+        font-size: 18px;
+    }
+    .HeaderPage{
+        padding: 100px 0;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .HeaderPage h1{
+        font-size: 22px;
+    }
+    .HeaderPage{
+        padding: 95px 0;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .HeaderPage h1{
+        font-size: 28px;
+    }
+    .HeaderPage{
+        padding: 120px 0;
+    }
+}

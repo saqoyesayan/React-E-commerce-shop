@@ -1,0 +1,16 @@
+@media only screen and (max-width:500px){
+    .basketmain{
+        width: 350px;
+        padding: 20px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .basketmain{
+        width: 380px;
+        padding: 10px;
+    }
+    .btn-primary {
+        display: block;
+    }
+}
